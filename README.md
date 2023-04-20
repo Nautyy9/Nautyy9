@@ -1,4 +1,4 @@
-![MasterHead](https://img.freepik.com/free-vector/developer-activity-concept-illustration_114360-2801.jpg?w=826&t=st=1681980910~exp=1681981510~hmac=5784e4031c440fa7cfaf6bcdde4e999bd19184ec82a049727065872903497a5f)
+![MasterHead](https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?w=996&t=st=1681981046~exp=1681981646~hmac=c7a8f069d3f93cf1d46d32cac961a70cba2efebb9c93bb7f8361387d3765aa2c)
 <h1 align="center">Hi 👋, I'm Nitin Nautiyal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/9b4dc87f022b2af14ed935b4de91f272e6e687a9b3d122ffdf3fcb3208189a48/68747470733a2f2f696d6167652e6962622e636f2f6a456b6364642f66726f6e745f656e645f646576656c6f706572735f6f70656e696e67735f312e676966"/>
