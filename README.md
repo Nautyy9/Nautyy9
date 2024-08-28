@@ -260,7 +260,7 @@ about **MERN, javascript** - 📫 How to reach me **nitinnautiyal2016@gmail.com*
   </a>
       <a href="https://github.com/pmndrs/zustand" target="_blank" rel="noreferrer">
     <img
-      src="https://github.com/pmndrs/zustand/raw/main/bear.jpg"
+      src="https://avatars.githubusercontent.com/u/45790596?s=48&v=4"
       alt="zustand"
       width="40"
       height="40"
