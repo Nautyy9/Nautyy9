@@ -17,9 +17,9 @@
 
 
 
-- 🔭 I’m currently working on **3JS Portfolio** - 🌱 I’m currently learning
+- 🔭 I Test new languages and tech for fun right now i am working on **3JS Portfolio** - 🌱 I’m a freelancer who embraces 
 **New Technologies** - 👨‍💻 All of my projects are available at
-[https://nitinsfolio.vercel.app/](https://nitinsfolio.vercel.app/) - 💬 Ask me
+[https://nitinnautiyal.site/](https://nitinnautiyal.site) - 💬 Ask me
 about **MERN, javascript** - 📫 How to reach me **nitinnautiyal2016@gmail.com**
 - ⚡ Fun fact **Im in love with javascript**
 
