@@ -1,6 +1,6 @@
 ![MasterHead](https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?w=996&t=st=1681981046~exp=1681981646~hmac=c7a8f069d3f93cf1d46d32cac961a70cba2efebb9c93bb7f8361387d3765aa2c)
 <h1 align="center">Hi 👋, I'm Nitin Nautiyal</h1>
-<h3 align="center">Just Eager to learn more </h3>
+<h3 align="center">Just Eager to learn more. Feel free to reach out  </h3>
 <img
   align="right"
   alt="Coding"
